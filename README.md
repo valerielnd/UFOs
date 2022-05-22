@@ -21,6 +21,7 @@ We will use JavaScript as the primary coding language to create the table. The c
 contain the file [app.js](https://github.com/valerielnd/UFOs/blob/main/static/js/app.js).
 
 We will use basic HTLM, Bootstrap, and CSS to build and style the HTML page where the table will be visually displayed: 
+
 [index.html](https://github.com/valerielnd/UFOs/blob/main/index.html)
 
 [style.css](https://github.com/valerielnd/UFOs/blob/main/static/css/style.css)
